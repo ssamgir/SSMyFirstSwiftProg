@@ -1,4 +1,4 @@
-# SSMyFirstSwiftProg
+# First Swift Programe
 Hello Swift
 
 
@@ -10,6 +10,7 @@ Hello Swift
 
 # Contents
 
+-	[Print Screens](#Print Screens)
 -	[Prerequisites](#prerequisites)
 -	[Requirements](#requirements)
 -	[Installation](#installation)
@@ -17,11 +18,13 @@ Hello Swift
 -	[Credits](#credits)
 -	[License](#license)
 
-## Prerequisites
+
 
 ## Print Screens
-
+## 1
 ![1](https://github.com/ssamgir/SSMyFirstSwiftProg/blob/master/Resources/Simulator%20Screen%20Shot%2021-Aug-2016%2C%201.28.36%20AM.png)
+
+## 2 - Error Handling
 ![2](https://github.com/ssamgir/SSMyFirstSwiftProg/blob/master/Resources/Simulator%20Screen%20Shot%2021-Aug-2016%2C%201.28.39%20AM.png)
 
 

@@ -1,5 +1,4 @@
 # First Swift Programe
-Hello Swift
 
 
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
